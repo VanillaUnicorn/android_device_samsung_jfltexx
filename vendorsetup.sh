@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltexx-eng
+add_lunch_combo vu_jfltexx-eng
 
